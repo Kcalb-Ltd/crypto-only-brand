@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "assetSourceRevision": "initial",
+  "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
+  "assets": [
+    {
+      "path": "assets/png/round/crypto-only-round-1024.png",
+      "sha256": "bdb0e43a547ed1cdc074788bfd73031bfb86ba17e5b71e311f471f87665c133e",
+      "bytes": 140017,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/crypto-only-round-200.png",
+      "sha256": "5a68465704f9ce1e6e2d6e0e96011856688b23da1d6c23596187cad66f24f120",
+      "bytes": 18565,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/crypto-only-round-3000.png",
+      "sha256": "9615ba7364ef361736420e1241ddee7ef8b1ae92ed002d86ff8a5489c0b88035",
+      "bytes": 597577,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/crypto-only-round-32.png",
+      "sha256": "c9506c1568a63487d6b51abe369c5efed5cf35cab51e0b560b1ce235bb3b014d",
+      "bytes": 1943,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/crypto-only-round-500.png",
+      "sha256": "5a307a3bad427394e4d32db1e0f8c4bd25d31a6c885fc9960624b113a9dbccda",
+      "bytes": 55753,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/crypto-only-square-1024.png",
+      "sha256": "181b72969cbc917512fc259100c7e14ff109ed11b5ced61cd90a9285dc504c7e",
+      "bytes": 128148,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/crypto-only-square-200.png",
+      "sha256": "9ff55a7b14d505c29e3ccb04651b5af17c65e2eba8838e2ec3d2c8b32a3d2c10",
+      "bytes": 16275,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/crypto-only-square-3000.png",
+      "sha256": "60617c4a761a206f4eebf778e0aaecfd118e7a721519a69403185180b94fee90",
+      "bytes": 550289,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/crypto-only-square-32.png",
+      "sha256": "13ac95e249a53f4576430ca96bd6e2666bdc65ed3461ccd4eb6143ae081e1ec4",
+      "bytes": 1676,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/crypto-only-square-500.png",
+      "sha256": "8e77c79e671dda891e572b11c2b468937a108d7454a31f9c87b8b177457c4a0c",
+      "bytes": 49765,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/symbol-color/crypto-only-symbol-color-1024.png",
+      "sha256": "19207a514dddad27525a77f666fa1aad7e1fa6a0298293fa113c1ccf137c9154",
+      "bytes": 53592,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/crypto-only-symbol-color-200.png",
+      "sha256": "9bacb4f560f30f2dc39f909c88424ded30e25dd873bb7fa04ec57afd4a984d6e",
+      "bytes": 6907,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/crypto-only-symbol-color-3000.png",
+      "sha256": "65d319656e34842934d30b59f86b6c0b3ab18c265c73f7b120f3703c9f6ab901",
+      "bytes": 219634,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/crypto-only-symbol-color-500.png",
+      "sha256": "ec717ac59f06c2d00328b390b312fa03843e75d1f047fc19b728beec6f729854",
+      "bytes": 21491,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/crypto-only-symbol-white-1024.png",
+      "sha256": "31e9e3b9c3ee6be3b3ee8452bdf65c5be0cda4b364eb82b52a104e3bc36aba9a",
+      "bytes": 37862,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/crypto-only-symbol-white-200.png",
+      "sha256": "0864436770ba87dbadbcd46506c15838383b682f827f0418dd27865b22d32042",
+      "bytes": 6254,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/crypto-only-symbol-white-3000.png",
+      "sha256": "6242a716b290a944b4e87a181fa97122a496fe3f493f2d0aead9b2e16c89012b",
+      "bytes": 144978,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/crypto-only-symbol-white-500.png",
+      "sha256": "e399a4ea2e0c28476a66b84b08cb0b0e7c912d36ca820cb1b9a00fe5820bb35a",
+      "bytes": 16412,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/svg/crypto-only-round.svg",
+      "sha256": "90664ef34984a9e117c808af0c7b326d591b8ac3b1100deab4656aff8190fbdf",
+      "bytes": 11432,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, round with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/crypto-only-square.svg",
+      "sha256": "b12cf6c060e9479402d8d772c541b7629d4040bb2466e8767db3a68f9db3df7e",
+      "bytes": 11440,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, rounded square with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/crypto-only-symbol-color.svg",
+      "sha256": "3169b40902a2e1d63cfac44b95f32b8687433b4552e87a5338beb269814636d7",
+      "bytes": 10842,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/crypto-only-symbol-white.svg",
+      "sha256": "b4d19efa22fc1abb622303f2ee7435fef6c8ae24838bd7a9b863344244551564",
+      "bytes": 10839,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    }
+  ],
+  "assetSetSha256": "206e9b933a2b64ac2c99b557207b44cd305470d70269a089bc86eac2255b563c"
+}
