@@ -6,7 +6,7 @@
 <img src="assets/png/symbol-color/crypto-only-symbol-color-200.png" width="96" alt="Crypto-Only symbol">
 </p>
 
-Official logo files for **Crypto-Only** — *Built for communities* — [crypto-only.org](https://crypto-only.org).
+Official logo files for **Crypto-Only** — *Connecting communities* — [crypto-only.org](https://crypto-only.org).
 Crypto-Only is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbApp ecosystem.
 
 ## Choose an asset
@@ -21,7 +21,7 @@ Crypto-Only is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbA
 
 Every PNG is rendered from the SVG masters. Use the SVG whenever the platform accepts it, otherwise the smallest PNG that is at least as large as the display size on a high-density screen.
 
-Direct links, for integrations: `https://raw.githubusercontent.com/KcalbApp/crypto-only-brand/main/assets/png/round/crypto-only-round-500.png`. For production, pin a commit hash instead of `main` and check the file against [asset-manifest.json](asset-manifest.json).
+Direct links, for integrations: `https://raw.githubusercontent.com/Kcalb-Ltd/crypto-only-brand/main/assets/png/round/crypto-only-round-500.png`. For production, pin a commit hash instead of `main` and check the file against [asset-manifest.json](asset-manifest.json).
 
 ## Official colors
 
@@ -49,15 +49,18 @@ The icon is a flat brand color with a white symbol and a soft drop shadow toward
 
 | Brand | Assets | Website |
 |---|---|---|
-| Xitcoin | [`xitcoin-org/brand`](https://github.com/xitcoin-org/brand) | [xitcoin.org](https://xitcoin.org) |
-| KcalbApp | [`KcalbApp/kcalbapp-brand`](https://github.com/KcalbApp/kcalbapp-brand) | [kcalb-ltd.com](https://kcalb-ltd.com) |
-| InoAi | [`KcalbApp/inoai-brand`](https://github.com/KcalbApp/inoai-brand) | [inoai.org](https://inoai.org) |
-| Kcanther | [`KcalbApp/kcanther-brand`](https://github.com/KcalbApp/kcanther-brand) | [kcanther.org](https://kcanther.org) |
-| InoSwap | [`KcalbApp/inoswap-brand`](https://github.com/KcalbApp/inoswap-brand) | [inoswap.org](https://inoswap.org) |
-| StakeHolDrop | [`KcalbApp/stakeholdrop-brand`](https://github.com/KcalbApp/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
-| Crypto-Only | [`KcalbApp/crypto-only-brand`](https://github.com/KcalbApp/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
+| InoPulse | [`Kcalb-Ltd/inopulse-brand`](https://github.com/Kcalb-Ltd/inopulse-brand) | [inopulse.org](https://inopulse.org) |
+| Crypto-Only | [`Kcalb-Ltd/crypto-only-brand`](https://github.com/Kcalb-Ltd/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
+| KcalbApp | [`Kcalb-Ltd/kcalbapp-brand`](https://github.com/Kcalb-Ltd/kcalbapp-brand) | [kcalb-ltd.com](https://kcalb-ltd.com) |
+| StakeHolDrop | [`Kcalb-Ltd/stakeholdrop-brand`](https://github.com/Kcalb-Ltd/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
+| InoAi | [`Kcalb-Ltd/inoai-brand`](https://github.com/Kcalb-Ltd/inoai-brand) | [inoai.org](https://inoai.org) |
+| InoSwap | [`Kcalb-Ltd/inoswap-brand`](https://github.com/Kcalb-Ltd/inoswap-brand) | [inoswap.org](https://inoswap.org) |
+| InoPlace | [`Kcalb-Ltd/inoplace-brand`](https://github.com/Kcalb-Ltd/inoplace-brand) | [inoplace.org](https://inoplace.org) |
+| Kcanther | [`Kcalb-Ltd/kcanther-brand`](https://github.com/Kcalb-Ltd/kcanther-brand) | [kcanther.org](https://kcanther.org) |
+| Xitcoin | [`Xitcoin-org/brand`](https://github.com/Xitcoin-org/brand) | [xitcoin.org](https://xitcoin.org) |
+| InoShop | [`Kcalb-Ltd/inoshop-brand`](https://github.com/Kcalb-Ltd/inoshop-brand) | [inoshop.org](https://inoshop.org) |
 
 ## License and contact
 
 Copyright © 2026 Kcalb Ltd. All rights reserved — the [LICENSE](LICENSE) allows use of the unmodified files to refer to Crypto-Only.
-Questions and requests: **contact@crypto-only.org**, or open an [issue](https://github.com/KcalbApp/crypto-only-brand/issues).
+Questions and requests: **contact@crypto-only.org**, or open an [issue](https://github.com/Kcalb-Ltd/crypto-only-brand/issues).

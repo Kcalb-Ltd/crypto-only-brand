@@ -2,7 +2,7 @@
 
 Generated 24 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `206e9b933a2b64ac2c99b557207b44cd305470d70269a089bc86eac2255b563c`
+Asset set SHA-256: `bd2c07c952709438fc8c5ce22e550a782287cdc558ae741d1d1f5ff66d6376be`
 
 | File | Format | Size | Use |
 |---|---|---|---|
