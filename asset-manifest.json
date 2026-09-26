@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "assetSourceRevision": "initial",
+  "assetSourceRevision": "2026-09-27",
   "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
   "assets": [
     {
@@ -185,7 +185,7 @@
     },
     {
       "path": "assets/svg/crypto-only-round.svg",
-      "sha256": "2e8d7422c1137e02192311c9b7fe4807537c89c026bfd11c780addd41e718467",
+      "sha256": "c1599779c34a9753eeef1e44caef3a899c9fdf24971cdcc38db111b9f1be2888",
       "bytes": 11506,
       "containerFormat": "SVG",
       "width": 1024,
@@ -195,7 +195,7 @@
     },
     {
       "path": "assets/svg/crypto-only-square.svg",
-      "sha256": "0af09cad87bd378e7f1e893d561e1e64338f6b2f147d701fbda85d2f3485ad95",
+      "sha256": "2dbbcd1f8d50b2f165f118d42974eebc94ec193d18cbe229f3749bdd6abdd04d",
       "bytes": 11514,
       "containerFormat": "SVG",
       "width": 1024,
@@ -224,5 +224,5 @@
       "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "bd2c07c952709438fc8c5ce22e550a782287cdc558ae741d1d1f5ff66d6376be"
+  "assetSetSha256": "240b5f455c580128f30085c6a3998c11553fb944a9abaaef7946491a4535a5d4"
 }

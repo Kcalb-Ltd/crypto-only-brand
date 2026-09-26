@@ -1,13 +1,13 @@
-# Crypto-Only brand assets
+# Crypto Only brand assets
 
 <p>
-<img src="assets/png/square/crypto-only-square-200.png" width="96" alt="Crypto-Only app icon">&nbsp;
-<img src="assets/png/round/crypto-only-round-200.png" width="96" alt="Crypto-Only round avatar">&nbsp;
-<img src="assets/png/symbol-color/crypto-only-symbol-color-200.png" width="96" alt="Crypto-Only symbol">
+<img src="assets/png/square/crypto-only-square-200.png" width="96" alt="Crypto Only app icon">&nbsp;
+<img src="assets/png/round/crypto-only-round-200.png" width="96" alt="Crypto Only round avatar">&nbsp;
+<img src="assets/png/symbol-color/crypto-only-symbol-color-200.png" width="96" alt="Crypto Only symbol">
 </p>
 
-Official logo files for **Crypto-Only** — *Connecting communities* — [crypto-only.org](https://crypto-only.org).
-Crypto-Only is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbApp ecosystem.
+Official logo files for **Crypto Only** — *Connecting communities* — [crypto-only.org](https://crypto-only.org).
+Crypto Only is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbApp ecosystem.
 
 ## Choose an asset
 
@@ -27,7 +27,7 @@ Direct links, for integrations: `https://raw.githubusercontent.com/Kcalb-Ltd/cry
 
 | Color | Hex | Use |
 |---|---|---|
-| Crypto-Only | `#2175EB` | background of the icon, symbol on light backgrounds |
+| Crypto Only | `#2175EB` | background of the icon, symbol on light backgrounds |
 | Shadow | `#0E3163` | drop shadow under the symbol only |
 | White | `#FFFFFF` | symbol on the brand color or on dark backgrounds |
 
@@ -39,7 +39,7 @@ The icon is a flat brand color with a white symbol and a soft drop shadow toward
 - Keep the symbol centered in its square or circle, and keep clear space around the icon.
 - On a white background, use the square or round icon, or the colored symbol. On a dark background, use the icon or the white symbol.
 - Do not place the artwork next to another mark in a way that suggests partnership or endorsement.
-- Refer to the brand as **Crypto-Only**, with this exact spelling.
+- Refer to the brand as **Crypto Only**, with this exact spelling.
 
 ## Integrity
 
@@ -50,9 +50,9 @@ The icon is a flat brand color with a white symbol and a soft drop shadow toward
 | Brand | Assets | Website |
 |---|---|---|
 | InoPulse | [`Kcalb-Ltd/inopulse-brand`](https://github.com/Kcalb-Ltd/inopulse-brand) | [inopulse.org](https://inopulse.org) |
-| Crypto-Only | [`Kcalb-Ltd/crypto-only-brand`](https://github.com/Kcalb-Ltd/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
+| Crypto Only | [`Kcalb-Ltd/crypto-only-brand`](https://github.com/Kcalb-Ltd/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
 | KcalbApp | [`Kcalb-Ltd/kcalbapp-brand`](https://github.com/Kcalb-Ltd/kcalbapp-brand) | [kcalb-ltd.com](https://kcalb-ltd.com) |
-| StakeHolDrop | [`Kcalb-Ltd/stakeholdrop-brand`](https://github.com/Kcalb-Ltd/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
+| Stake Only | [`Kcalb-Ltd/stakeholdrop-brand`](https://github.com/Kcalb-Ltd/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
 | InoAi | [`Kcalb-Ltd/inoai-brand`](https://github.com/Kcalb-Ltd/inoai-brand) | [inoai.org](https://inoai.org) |
 | InoSwap | [`Kcalb-Ltd/inoswap-brand`](https://github.com/Kcalb-Ltd/inoswap-brand) | [inoswap.org](https://inoswap.org) |
 | InoPlace | [`Kcalb-Ltd/inoplace-brand`](https://github.com/Kcalb-Ltd/inoplace-brand) | [inoplace.org](https://inoplace.org) |
@@ -62,5 +62,5 @@ The icon is a flat brand color with a white symbol and a soft drop shadow toward
 
 ## License and contact
 
-Copyright © 2026 Kcalb Ltd. All rights reserved — the [LICENSE](LICENSE) allows use of the unmodified files to refer to Crypto-Only.
+Copyright © 2026 Kcalb Ltd. All rights reserved — the [LICENSE](LICENSE) allows use of the unmodified files to refer to Crypto Only.
 Questions and requests: **contact@crypto-only.org**, or open an [issue](https://github.com/Kcalb-Ltd/crypto-only-brand/issues).
